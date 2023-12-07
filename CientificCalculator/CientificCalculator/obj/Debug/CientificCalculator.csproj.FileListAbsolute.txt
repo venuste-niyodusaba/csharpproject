@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\bin\Debug\CientificCalculator.exe.config
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\bin\Debug\CientificCalculator.exe
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\bin\Debug\CientificCalculator.pdb
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.Form1.resources
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.Properties.Resources.resources
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.exe
+C:\Users\user\source\repos\CientificCalculator\CientificCalculator\obj\Debug\CientificCalculator.pdb
